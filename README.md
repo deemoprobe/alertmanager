@@ -1,2 +1,2 @@
 # alertmanager
-quay.io/prometheus/alertmanager:v0.24.0
+quay.io/prometheus/alertmanager:v0.23.0
